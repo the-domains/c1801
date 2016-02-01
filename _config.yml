@@ -1,7 +1,7 @@
 name: '1801'
 favicon: null
-layout_spectrum: 0.10311781778000295
-typography_spectrum: 0.2329345061443746
+layout_spectrum: 0.25622
+typography_spectrum: 0.81159
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.2748635506723076
+  brandStrength: 0.5
   lightness: 0.5190040979068726
   saturation: 0.7123407670296729
   rhythmicContrast: 0.4786095218732953
