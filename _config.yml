@@ -1,7 +1,8 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -12,16 +13,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.2455197
-  brandStrength: 0.3942652
+  brandStrength: 0.7544803
   lightness: 0.5190041
   brandColors:
     - '#051528'
@@ -31,10 +32,9 @@ color:
     - '#C87E99'
   rhythmicContrast: 0.4786095
 typography_spectrum: 0.81159
-cta:
-  bucket: null
-  version: null
-  domain: null
 layout_spectrum: 0.7311828
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: '1801'
