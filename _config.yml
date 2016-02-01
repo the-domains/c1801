@@ -1,28 +1,40 @@
-name: '1801'
-favicon: null
-layout_spectrum: 0.25622
-typography_spectrum: 0.81159
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.5
-  lightness: 0.5190040979068726
-  saturation: 0.7123407670296729
-  rhythmicContrast: 0.4786095218732953
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.2455197
+  brandStrength: 0.3942652
+  lightness: 0.5190041
+  brandColors:
+    - '#051528'
+    - '#3A5476'
+    - '#91A3BD'
+    - '#E0E9F2'
+    - '#C87E99'
+  rhythmicContrast: 0.4786095
+typography_spectrum: 0.81159
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.7311828
+favicon: null
+name: '1801'
