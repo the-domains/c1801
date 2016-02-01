@@ -1,0 +1,28 @@
+name: '1801'
+favicon: null
+layout_spectrum: 0.10311781778000295
+typography_spectrum: 0.2329345061443746
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2748635506723076
+  lightness: 0.5190040979068726
+  saturation: 0.7123407670296729
+  rhythmicContrast: 0.4786095218732953
+purpose: []
